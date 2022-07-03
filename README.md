@@ -26,5 +26,5 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 ## Conclusions
 After compairing both the model we can see that the below Features are best explaining the DataSet
 
-Best alpha value for Lasso : {'alpha': 0.001}
+Best alpha value for Lasso : {'alpha': 0.001}<br/>
 Best alpha value for Ridge : {'alpha': 0.9}
